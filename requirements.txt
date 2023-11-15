@@ -1,0 +1,5 @@
+matplotlib
+networkx[default]
+flask
+requests
+flask-cors
